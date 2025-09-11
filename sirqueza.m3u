@@ -42,11 +42,27 @@ https://gmainternational.mikuy30.dpdns.org/gmanews/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=4ac7a3f2f64f4917995f3faad29a3354:c5d35fdcecceea61c4912eb6ee13c711
 https://gmainternational.mikuy30.dpdns.org/gmapinoytv/manifest.mpd
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uVe56sB.jpeg" group-title="",MEN'S NEC♂️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
 https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Banijay Mr Bean Animé
+https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Banijay Mr Bean Classic
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.do" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="",Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Billiard TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc833031-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91cdf5e0-4b15-4ce9-af99-0d9a95c16ff7
+#EXTINF:-1 tvg-id="BilliardTV.us@SD" tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="",Billiard TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Billiards+
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
+
+
+
 
 
 
@@ -106,4 +122,5 @@ https://gstream.hollymoviehd.cc/streamsvr/4QkkBmrXKB/0-1?e=cTB6aG5lT3BhMkpJcU51K
 https://gstream.hollymoviehd.cc/streamsvr/xyeS10ybBv/0-4?e=Q2pENWx0MGVabTRYczVVcVZDMk9MRmFLMjBKdG0vK0U3UFF5SVJLMW9NOD0E
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/biLnySNojYUDMVEoWjc7Pjb7n7O.jpg" group-title="Vivamax", Kiss/Kiss (2025)
 https://gstream.hollymoviehd.cc/streamsvr/Kj2AcboVNx/0-1?e=dkRoRzZlK2oyZVlsZFFaOTU1MU05R01LRVNiTFJQU2s0cENjSEFvMThqQT0E
+
 
