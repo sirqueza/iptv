@@ -49,7 +49,7 @@ https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Mr-bean-animated-episode-opening-card.PNG" group-title="",Banijay Mr Bean Animé
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Banijay Mr Bean Classic
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Mr._bean_title_card.jpg" group-title="",Banijay Mr Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="TomAndJerry.do" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -264,6 +264,7 @@ https://gstream.hollymoviehd.cc/streamsvr/4QkkBmrXKB/0-1?e=cTB6aG5lT3BhMkpJcU51K
 https://gstream.hollymoviehd.cc/streamsvr/xyeS10ybBv/0-4?e=Q2pENWx0MGVabTRYczVVcVZDMk9MRmFLMjBKdG0vK0U3UFF5SVJLMW9NOD0E
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/biLnySNojYUDMVEoWjc7Pjb7n7O.jpg" group-title="Vivamax", Kiss/Kiss (2025)
 https://gstream.hollymoviehd.cc/streamsvr/Kj2AcboVNx/0-1?e=dkRoRzZlK2oyZVlsZFFaOTU1MU05R01LRVNiTFJQU2s0cENjSEFvMThqQT0E
+
 
 
 
