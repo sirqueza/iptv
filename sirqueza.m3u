@@ -73,7 +73,7 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/xe8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc833031-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91cdf5e0-4b15-4ce9-af99-0d9a95c16ff7
 #EXTINF:-1 tvg-id="BilliardTV.us@SD" tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="",Billiard TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Billiards+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jLXxjQx.jpeg" group-title="Undefined",Billiards+
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 
 
@@ -294,6 +294,7 @@ http://live.adultiptv.net/blonde.m3u8
 http://live.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
 http://live.adultiptv.net/asian.m3u8
+
 
 
 
