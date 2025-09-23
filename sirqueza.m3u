@@ -24,7 +24,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbn
 #KODIPROP:inputstream.adaptive.license_key=d922d79d9b554c29a31d5b7eace0694a:420ef31558f07c96bba045cffd50ad75
 https://abslive.akamaized.net/dash/live/2027618/anc-ph-dash/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBkAQQ3.jpeg" group-title="",ANC HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5w7u9Xh.jpeg " group-title="",ANC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c0738883f8f4f7eb21d06e6c36d3771:51d5418d5e5c1a73affe5c554195b795
 https://live-faws.akamaized.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/index.mpd
@@ -304,6 +304,7 @@ http://live.adultiptv.net/blonde.m3u8
 http://live.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
 http://live.adultiptv.net/asian.m3u8
+
 
 
 
