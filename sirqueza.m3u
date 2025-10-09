@@ -42,6 +42,11 @@ https://abslive.akamaized.net/dash/live/2028025/jeepneytv/manifest.mpd
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://i.imgur.com/wDdD1Jo.jpeg", SineManila
 https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://data.phcorner.org/2025/10/12120987_shop_aniplus.png" group-title="",Aniplus HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/AniPlus/index.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/800px-GMA_Network_Logo_Vector.svg.png " group-title="",GMA 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
@@ -253,6 +258,7 @@ http://live.adultiptv.net/blonde.m3u8
 http://live.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
 http://live.adultiptv.net/asian.m3u8
+
 
 
 
